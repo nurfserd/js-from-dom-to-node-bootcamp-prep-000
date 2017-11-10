@@ -10,7 +10,7 @@ if (6 + 3 < 5) {
   console.log('The humingbird is the only animal that can fly backwards')
 }
 
-var dog = 'satisfied'
+var dog = 'thirsty'
 
 if (dog === 'hungry') {
   console.log('Refilling food bowl.')
@@ -19,4 +19,3 @@ if (dog === 'hungry') {
 } else {
   console.log('Reading newspaper.')
 }
-
